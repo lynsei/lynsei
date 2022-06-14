@@ -27,4 +27,4 @@ Always encrypt folks!
 
 --Lynsei Asynynivynya![emergentary2](https://user-images.githubusercontent.com/16281585/173702301-baa85c0e-89b9-4450-84b7-6c770a93f9d2.png)
 ![lynsei-dark](https://user-images.githubusercontent.com/16281585/173704263-e12939a8-aac7-4330-a97a-419246a9bb04.png)
-![Uploading LYNSLANG.png…]()
+
