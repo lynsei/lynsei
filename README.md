@@ -47,10 +47,15 @@ I'm also all about representing and advocating for strong cryptography.
 
 #### After all, crypto saved my life! 
 
-  You see, I came before Aaron Swartz exactly 13 months prior in 2009.  So I dedicate all my crypto to him!  I *probably* would have wound up taking my own life too if the attempts to jail me for 30 years had been a success back then, but thankfully I deftly dodged those speculations and thereby a federal indictment.  This is how I learned that the NSA and FBI cannot break Blowfish-Rijndael-AES Weaved 512bit ciphers. Anyhow I don't want to overtly reminisce, but to make a very long story short, the FBI returned those hard drives to me  two years later.  So by the grace of God and (almost certainly, mostly) modern cryptography, I remain free to this day.
-> (I was innocent regardless, but it took me many years to forget that incident and the person responsible)
+  You see, I came before Aaron Swartz exactly 13 months prior in 2009.  Don't worry.  I'm not in jail so I obviously didn't do anything very interesting, but I *probably* would have wound up taking my own life too if the attempts to jail me for 30 years had been a success back then, and thankfully I deftly dodged those speculations and thereby a federal indictment.  One of the few!  
+  
+   This is how I learned that the NSA and FBI cannot break Blowfish-Rijndael-AES Weaved 512bit ciphers. Anyhow I don't want to overtly reminisce, but to make a very long story short, the FBI returned those hard drives to me two years later.  So by the grace of God and almost certainly my super-nifty cryptography, I remain free to this day.
+   
+> (For the record, I was innocent regardless.  The FBI didn't have a leg, or shall I say a log to stand on.  It took me many years to forget that incident and the person responsible.  But fortunately I'm a very forgiving individual.
 
-Anyhow, that's enough about me!  I'm just a nobody with the only credentials this country has to offer in the realm of cryptography, that aren't won from a university degree.   For this reason I devote all my software to [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz).   May he rest in peace.
+Anyhow, that's enough about me!  My only credentials are the only ones this country has to offer in the realm of cryptography that aren't won from a university degree, and sometimes I wish I had gone that route.  Though, I do think there is a need for people who specialize in secure implementations of cryptography, and that's what I do.  Writing algorithms is important too, but most attacks are not on the crypto algorithm itself.  Anyhow, three letter organizations have no right to steal your computers and attempt to break in to your data, and yet the frequency with which this occurs would literally shock you.  The CFAA is the most abused document ever created in my opinion.  
+
+For this reason I devote all my software to [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz).   May he rest in peace.
 
 Always encrypt folks!  
 
