@@ -40,12 +40,16 @@ d88P____     888    /      Y88b      \__88P' 888___  "88_-~  Y88P
  
 Most persons who are doctoral students in cryptography don't create AWS architecture or write software systems in Rust/Go/Node/Typescript, etc. anyways, so I feel that I'm somewhat unique in the industry, although I'm certain there are many talented folk out there but I haven't met many in the crypto-sphere. 
 
-That is of course with the exception of the folks with whom I interviewed at Google.  They were pretty staunch high-society dweebs, read from a robot script, and I know for a fact I didn't answer a single answer to a test questions correct (was it the question about reproducing a red/black tree or trie tree from memory?), and so cheers to you Google!  After all, I may be too awful at tests, and too insecure to pass your programming exam, but I still have a Docker image running a software language interpreting files that use my name as the extension.  So I guess I'm doing *some* things right 🤏🏻!
+That is of course with the exception of the folks with whom I interviewed at Google.  They were pretty staunch high-society dweebs, read from a robot script, and I know for a fact I didn't answer a single test question correct (was it the question about reproducing a red/black tree or trie tree from memory?), and so cheers to you Google! I may be too awful at tests, and too insecure to pass your programming exam, but I still have a Docker image running a software language interpreting files that use my name as the extension.  So I guess I'm doing *some* things right 🤏🏻!   
 
-I'm all about the underdog!  Never let **anyone** tell you what you "cannot do", folks (especially not Google)! 
-I'm also all about representing and advocating for strong cryptography.  
+#### I'm all about the underdog! 
+Never let **anyone** tell you what you "cannot do", folks (especially not Google)! 
 
-#### After all, crypto saved my life! 
+I'm also all about representing and ...
+
+### Advocating for strong cryptography
+
+####  After all, crypto saved my life! 
 
   You see, I came before Aaron Swartz exactly 13 months prior in 2009.  Don't worry.  I'm not in jail so I obviously didn't do anything very interesting, but I *probably* would have wound up taking my own life too if the attempts to jail me for 30 years had been a success back then, and thankfully I deftly dodged those speculations and thereby a federal indictment.  One of the few!  
   
