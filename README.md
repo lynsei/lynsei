@@ -7,6 +7,38 @@ I'm a `very not famous` cryptography author, implementer, and software architect
 
 All the software I produce is cloud based, and uses a custom policy framework to ensure it is compliant with FIPS-140(1-3), PCI-DSS, GDPR, HIPAA, ISO 9001 NIST standards.  All the architecture I produce is pre-validated by standards organizations and penetration tested, fuzzed (Gitlab, Dependabot, Peach, Synopsis/ Blackduck), with aut(h)onomic CI security scanners governed by policy adhesion for Zero Trust Architecture (ZTA), multi-model threat paradigms, and following decrees instituted by the leaders in the industry and goverment experts with more modulous in their degrees than I have. But my modulous are the same as their modulous, just more cost effective.
 
+```
+🆁🅳🧪Labs ⚡️ lynsei.com | 🏴‍☠️ fsf.org 💕 Ḻʸⁿˢᴱi.          helping free software stay that way.
+
+(- / (-|_,(-|__)(-/  \  ____,(-|  (-|__)(-|  (-(__(-|   
+ _/__,_|__,_|  \,_\__/,(      _|,  _|  \,_|__/____)_|,    
+(    (    (     (            (    (     (    (    (
+
+> gpg_entropy, wolfcrypt FIPS-140-2 and FIP-140-3 using a disposable private key system, shrinkwrap, keepass derivation, and firecracker vms.
+
+‣ Socio-Technical Advisory   
+	‣ Logical High Crypto
+	‣ Predictive Intelligence™  
+	‣ Passive Yield™ 
+‣ Advanced Scenario AI
+‣  Dockerless & Daemonless  
+‣  Dependency-Free  OpenSource
+‣  BI Aware™  
+	‣ Deep Learning™   
+	‣  Context Sensitive  
+	‣  FSM Promisary™  
+	‣ Situationally Attenuated™  ‣  
+‣ Open Source (or soon to be)=
+‣ Enterprise Science Neural Data Translation Networks™
+
+💕
+Ḻʸⁿˢᴱi
+
+```
+
+
+🧪
+
 Most persons who are doctoral students in cryptography don't create AWS architecture or write software systems in Rust/Go/Node/Typescript, etc. anyways, so I feel that I'm fairly unique in the industry, although I'm certain there are many talented folk out there I just haven't met (many of) them yet. 
 
 That is of course with the exception of the folks with whom I interviewed at Google.  They were pretty staunch high-society dweebs, read from a robot script, and I know for a fact I didn't answer a single answer to a test questions correct (was it the question about reproducing a red/black tree or trie tree from memory?), and so cheers to you Google!  After all, I may be too awful at tests, and too insecure to pass your programming exam, but I still have a Docker image running a software language interpreting files that use my name as the extension.  So I guess I'm doing *some* things right 🤏🏻!
@@ -28,3 +60,13 @@ Always encrypt folks!
 --Lynsei Asynynivynya![emergentary2](https://user-images.githubusercontent.com/16281585/173702301-baa85c0e-89b9-4450-84b7-6c770a93f9d2.png)
 ![lynsei-dark](https://user-images.githubusercontent.com/16281585/173704263-e12939a8-aac7-4330-a97a-419246a9bb04.png)
 
+
+```
+🧪sci 🐳 oci 🦀 rust ⚛e8n 🐹go 🦀rust 💕 Ḻʸⁿˢ🐲 deno ⚡️
+    
+
+💕 
+Ḻʸⁿˢᴱi ⚡️ Asynynivynya (ɔ) Copyleft FY2022. 
+made with ❤︎  by  a  🏳️‍⚧️/≌ ∺uman 
+⎨   mode is ✗🅥ʸ⒴ ⭑ ⒣
+```
