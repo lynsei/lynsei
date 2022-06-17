@@ -65,6 +65,12 @@ Always encrypt folks!
 
 > Because if "keeping you out of jail" isn't a good enough reason, I don't know what is!
 
+PS:  You may say "Ah I'd never need to encrypt everything because I do nothing wrong.   Well do you trust everyone around you?   Do you trust everyone you work with?  You shouldn't be so trusting if you do.   All it takes is one failed business partnership, or one disgruntled employee to start a track with these sorts of agencies and they will literally cross major social boundaries in order to get what they want.  I'm proof of that.   So I know you may be a saint, but I thought I was too.  Success has hidden enemies, remember that!
+
+My way of life now is to always just stay vigilant, and implement as much ZTA architecture as I can, both personally and professionally.  Trust is something that needs to constantly be evaluated, and so security should be fluid, dynamic, and highly segmented.
+For more information you can always reach me on my public slack: [allwedois.slack.com](https://allwedois.slack.com)
+
+
 --Lynsei Asynynivynya![emergentary2](https://user-images.githubusercontent.com/16281585/173702301-baa85c0e-89b9-4450-84b7-6c770a93f9d2.png)
 ![lynsei-dark](https://user-images.githubusercontent.com/16281585/173704263-e12939a8-aac7-4330-a97a-419246a9bb04.png)
 
