@@ -1,8 +1,8 @@
 # Lynsei
-Principal Architect of R&D Programs for L7 Informatics
+Architect for Azure/AWS
 
 (◕‿◕) Hello! 
-I'm a veteran software architect working in the bioinformatics space.
+I'm a veteran cloud architect working in the bioinformatics space.
 
 ## Projects
 - Machine Learning
